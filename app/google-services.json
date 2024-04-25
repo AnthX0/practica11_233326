@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115225329748",
+    "project_id": "fir-app-example-afdfc",
+    "storage_bucket": "fir-app-example-afdfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115225329748:android:81b59d0ef721072e972dc1",
+        "android_client_info": {
+          "package_name": "cl.inacap.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFlwU99_ww5XEqtonVfPj5NDMWnPYUf64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
